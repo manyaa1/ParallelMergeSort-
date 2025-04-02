@@ -3,6 +3,9 @@
 ## Overview
 ParallelMergeSort is an implementation of the Merge Sort algorithm using multiple threads to improve performance.
 
+![image](https://github.com/user-attachments/assets/cbd0f912-b542-451d-9d6d-80c366408174)
+
+
 ## Compilation and Execution
 Follow these steps to compile and run the program:
 
